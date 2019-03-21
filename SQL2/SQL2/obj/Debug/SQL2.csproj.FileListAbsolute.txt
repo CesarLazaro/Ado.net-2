@@ -1,0 +1,7 @@
+c:\users\lazaroca\source\repos\SQL2\SQL2\bin\Debug\SQL2.exe.config
+c:\users\lazaroca\source\repos\SQL2\SQL2\bin\Debug\SQL2.exe
+c:\users\lazaroca\source\repos\SQL2\SQL2\bin\Debug\SQL2.pdb
+c:\users\lazaroca\source\repos\SQL2\SQL2\obj\Debug\SQL2.csprojAssemblyReference.cache
+c:\users\lazaroca\source\repos\SQL2\SQL2\obj\Debug\SQL2.csproj.CoreCompileInputs.cache
+c:\users\lazaroca\source\repos\SQL2\SQL2\obj\Debug\SQL2.exe
+c:\users\lazaroca\source\repos\SQL2\SQL2\obj\Debug\SQL2.pdb
